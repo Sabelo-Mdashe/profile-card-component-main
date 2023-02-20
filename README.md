@@ -27,9 +27,9 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-- GitHub URL: [Add github URL here](https://github)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/profile-card-component-UpD-6UsV-a)
+- Live Site URL: [Netlify](https://rad-peony-eacc77.netlify.app/)
+- GitHub URL: [Add github URL here](https://github.com/Sabelo-Mdashe/profile-card-component-main)
 
 ## My process
 
